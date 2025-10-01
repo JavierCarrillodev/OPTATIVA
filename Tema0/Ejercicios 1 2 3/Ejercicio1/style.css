@@ -1,0 +1,55 @@
+.titulo{
+    text-align: center;
+}
+table, tr,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    padding: 30px;
+
+
+}
+table{
+    height: 100vh;
+    width: 100% ;
+}
+td,th,tr{
+    width: 90px;
+    height: 20px;
+}
+.dia{
+    background-color: #a14444;
+}
+.hora{
+    background-color: #77a144;
+}
+.opt{
+    background-color: #44a1a1;
+}
+.recreo{
+    background-color: #bece2b;
+}
+.pro{
+    background-color: #a45a31;
+}
+.aad{
+    background-color: #36d024;
+}
+.din{
+    background-color: #056f8f;
+}
+.psp{
+    background-color: #d71b1b;
+}
+.ipe{
+    background-color: #6b9d6b;
+}
+.sge{
+    background-color: #1c2c03;
+}
+.pmd{
+    background-color: #7e31a4;
+}
+.ing{
+    background-color: rgba(232, 14, 81, 0.84);
+}
