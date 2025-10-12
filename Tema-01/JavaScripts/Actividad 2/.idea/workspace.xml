@@ -35,7 +35,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "/home/javi/Documentos/Javi/2DAM/Optativa/Tema-01/JavaScripts/Actividad 2/Ejercicio4",
+    "last_opened_file_path": "/home/javi/Documentos/Javi/2DAM/Optativa/Tema-01/JavaScripts/Actividad 2/Ejercicio5",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -47,6 +47,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Ejercicio5" />
       <recent name="$PROJECT_DIR$/Ejercicio4" />
       <recent name="$PROJECT_DIR$/Ejercicio3" />
       <recent name="$PROJECT_DIR$/Ejercicio2" />
@@ -69,6 +70,7 @@
       <workItem from="1760083104433" duration="5396000" />
       <workItem from="1760113183274" duration="3096000" />
       <workItem from="1760208836053" duration="974000" />
+      <workItem from="1760286323246" duration="1404000" />
     </task>
     <servers />
   </component>
