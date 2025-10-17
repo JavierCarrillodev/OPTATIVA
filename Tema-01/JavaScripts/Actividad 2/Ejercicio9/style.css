@@ -1,0 +1,16 @@
+body {
+    font-size: 30px;
+    text-align: center;
+}
+button {
+    font-size: 30px;
+}
+
+input{
+    text-align: center;
+    display: flex;
+    margin: 35px;
+    margin-left: 43%;
+    font-size: 25px;
+
+}

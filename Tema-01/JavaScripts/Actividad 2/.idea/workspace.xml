@@ -18,6 +18,9 @@
       </list>
     </option>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_HOME_DIR$/plugins/javascript-plugin/jsLanguageServicesImpl/external/lib.dom.d.ts" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -29,15 +32,22 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.Ejer10.html.executor": "Run",
+    "JavaScript Debug.Ejer11.html.executor": "Run",
+    "JavaScript Debug.Ejer12.html.executor": "Run",
     "JavaScript Debug.Ejer2.html.executor": "Run",
     "JavaScript Debug.Ejer3.html.executor": "Run",
+    "JavaScript Debug.Ejer5.html.executor": "Run",
+    "JavaScript Debug.Ejer7.html.executor": "Run",
+    "JavaScript Debug.Ejer8.html.executor": "Run",
+    "JavaScript Debug.Ejer9.html.executor": "Run",
     "JavaScript Debug.expreregul.html.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Node.js.script.js.executor": "Run",
     "Node.js.scripts.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "/home/javi/Documentos/Javi/2DAM/Optativa/Tema-01/JavaScripts/Actividad 2/Ejercicio6",
+    "last_opened_file_path": "/home/javi/Documentos/Javi/2DAM/Optativa/Tema-01/JavaScripts/Actividad 2/Ejercicio12/img",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -49,12 +59,25 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Ejercicio6" />
-      <recent name="$PROJECT_DIR$/Ejercicio5" />
-      <recent name="$PROJECT_DIR$/Ejercicio4" />
-      <recent name="$PROJECT_DIR$/Ejercicio3" />
-      <recent name="$PROJECT_DIR$/Ejercicio2" />
+      <recent name="$PROJECT_DIR$/Ejercicio12/img" />
+      <recent name="$PROJECT_DIR$/Ejercicio12" />
+      <recent name="$PROJECT_DIR$/Ejercicio11" />
+      <recent name="$PROJECT_DIR$/Ejercicio10" />
+      <recent name="$PROJECT_DIR$/Ejercicio9" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Ejercicio8" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Ejercicio5/script.js" working-dir="$PROJECT_DIR$/Ejercicio5">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.script.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -75,6 +98,7 @@
       <workItem from="1760208836053" duration="974000" />
       <workItem from="1760286323246" duration="1404000" />
       <workItem from="1760352767135" duration="10428000" />
+      <workItem from="1760696707362" duration="14914000" />
     </task>
     <servers />
   </component>
