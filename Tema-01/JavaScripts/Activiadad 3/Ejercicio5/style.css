@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+}
+
+#contenedor{
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    background-color: #3fde42;
+    color: white;
+    padding: 15px 25px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 50px;
+
+}
+img{
+    width: 300px;
+}
+table {
+    margin: 30px auto;
+    border-collapse: collapse;
+    font-size: 30px;
+
+}
+td {
+    border: 2px solid #000000;
+    padding: 15px;
+    color: white;
+    font-weight: bold;
+}

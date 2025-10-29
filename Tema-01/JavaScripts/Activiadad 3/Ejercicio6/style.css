@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+}
+#botones{
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin-top: 50px;
+    gap: 40px;
+}
+button{
+    font-size: 30px;
+}
+#segundo{
+    font-size: 50px;
+}
+

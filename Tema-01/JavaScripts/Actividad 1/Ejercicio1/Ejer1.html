@@ -4,8 +4,14 @@
     <meta charset="UTF-8">
     <title>Ejercicio 1 Tabla</title>
     <link rel="stylesheet" href="style.css">
-    <script src="script.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/@n8n/chat/dist/style.css" rel="stylesheet" />
+    <script type="module">
+        import { createChat } from 'https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js';
 
+        createChat({
+            webhookUrl: 'https://javiercarrillo.app.n8n.cloud/webhook/0705b771-3766-467a-a842-75135efa77bd/chat'
+        });
+    </script>
 </head>
 <body>
 <h1>Ejercicio 1</h1>
