@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Ejercicio 7</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body onload="setInterval(iniciarContador,10)">
+        <h1>Ejercicio 7</h1>
+        <h2>Modificar el ejercicio anterior para que cada vez que se pare el cronómetro se vayan guardando en un div los tiempos de parada.
+        </h2>
+
+    <div id ="botones">
+        <button onclick ="iniciarCronometro()"> Iniciar Cronómetro</button>
+        <button onclick ="pararCronometro()"> Parar Cronómetro</button>
+        <button onclick ="resetearCronometro()"> Resetear Cronómetro</button>
+    </div>
+        <h2 id="segundo"></h2>
+        <div id="paradas"></div>
+
+
+        <script src="script.js"></script>
+    </body>
+</html>

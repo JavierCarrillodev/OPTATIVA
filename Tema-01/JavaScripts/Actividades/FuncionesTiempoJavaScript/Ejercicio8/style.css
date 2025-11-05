@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+}
+#contenedor{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+}
+#img{
+    width: 80%;
+    height: 700px;
+}
