@@ -34,10 +34,11 @@
     "JavaScript Debug.Ejer3.html.executor": "Run",
     "JavaScript Debug.Ejer4.html.executor": "Run",
     "JavaScript Debug.Ejer5.html.executor": "Run",
+    "JavaScript Debug.Ejer6.html.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "/home/javi/Documentos/Javi/2DAM/Optativa",
+    "last_opened_file_path": "/home/javi/Documentos/Javi/2DAM/Optativa/Tema-01/JavaScripts/Actividades/Objetos y Clases JavaScript",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -71,6 +72,7 @@
       <workItem from="1762359082205" duration="3630000" />
       <workItem from="1762362909057" duration="661000" />
       <workItem from="1762368200669" duration="36000" />
+      <workItem from="1762457341273" duration="4651000" />
     </task>
     <servers />
   </component>
