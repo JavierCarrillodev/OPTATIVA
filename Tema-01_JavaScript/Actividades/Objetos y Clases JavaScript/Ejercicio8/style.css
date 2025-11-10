@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+}
+
+label{
+    font-size: 25px;
+}
+button {
+    font-size: 25px;
+}
+
+input {
+    font-size: 25px;
+}
+#resultado {
+    font-size: 30px;
+}

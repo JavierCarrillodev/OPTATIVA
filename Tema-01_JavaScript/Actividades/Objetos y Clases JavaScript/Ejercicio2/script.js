@@ -12,7 +12,7 @@ class Alumno{
 
     // Devolvemos un texto con todas las calificaciones
     obtenerCalificacionesAlumno () {
-        let notas = "<strong>Calificaciones:</strong><br>";
+        let notas = "<b>Calificaciones:</b><br>";
         for (let modulo in this.calificaciones) {
             notas += `${modulo}: ${this.calificaciones[modulo]}<br>`;
         }
