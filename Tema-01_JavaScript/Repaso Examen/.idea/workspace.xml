@@ -24,6 +24,7 @@
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/javi/Documentos/Javi/2DAM/Optativa/Tema-01_JavaScript/Repaso Examen&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -33,6 +34,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -49,6 +55,9 @@
       <updated>1763110822477</updated>
       <workItem from="1763110823685" duration="687000" />
       <workItem from="1763400715324" duration="1599000" />
+      <workItem from="1763407377337" duration="6352000" />
+      <workItem from="1763451827030" duration="2441000" />
+      <workItem from="1763471478526" duration="1446000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Ejer 1</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+    <h1>1.- Crear una web que llame a un script de javaScript que dibuje una tabla de dos fila y una columna y Modificar el ejercicio anterior para que el script contenga una variable de cadena de caracteres que guarde la cadena necesaria para darle color de fuente azul y tamaño 12 pto a la tabla del ejercicio anterior.
+    </h1>
+
+    <button onclick="tabla()">Dibujar Tabla</button>
+    <br><br>
+    <div id="tabla"></div>
+
+
+    <script>
+        function tabla(){
+
+
+            const tabla = document.getElementById('tabla');
+            tabla.style.color = "blue";
+            tabla.style.fontSize = "52px";
+            tabla.innerHTML = `
+                <table border="2" style="  border-collapse: collapse;">
+                <tr>
+                    <th>Fila 1</th>
+                </tr>
+                <tr>
+                    <th>Fila 2</th>
+                </tr>
+            </table>`;
+        }
+
+    </script>
+
+    </body>
+</html>
